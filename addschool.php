@@ -95,6 +95,7 @@
             </div>                
         </div>
         <div class="mt-3">
+            <input type="submit" name="data" class="btn btn-primary">
             <button type="submit" name="data" class="btn btn-primary">Add School</button>
         </div>                
     </form>
